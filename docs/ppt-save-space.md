@@ -13,7 +13,7 @@ the final file size too big
 if you only plan to use your presentation for web/online (as probably 99% of the cases)
 then you should pay attention when saving
 
-1) run the macro ppt-slide-master-cleanup.bas
+1) run the macro [ppt-slide-master-cleanup.bas](https://raw.githubusercontent.com/ghofweber/msoffice-workarounds/master/macros/ppt-slide-master-cleanup.bas)
    you can just save without macro afterwards
 2) save as -> compress pictures
 as shown in screenshot below
