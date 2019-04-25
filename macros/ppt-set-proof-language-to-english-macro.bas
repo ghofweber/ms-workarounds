@@ -1,6 +1,6 @@
 ' used to work a while back - strangely doesn't
 ' started to use the other one 
-' https://github.com/ghofweber/msoffice-workarounds/blob/master/ppt-change-prooflanguage-all-slides.bas
+' https://raw.githubusercontent.com/ghofweber/msoffice-workarounds/master/macros/ppt-change-prooflanguage-all-slides.bas
 Public Sub changeLanguage()
     On Error Resume Next
     Dim gi As GroupShapes '<-this was added. used below
