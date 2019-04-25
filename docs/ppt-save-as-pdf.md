@@ -1,4 +1,4 @@
-#saving ppt as pdf
+# saving ppt as pdf
 _no need anymore to print to pdf_
 
 if you need your ppt in pdf 
@@ -9,4 +9,4 @@ but you just can save it as pdf
 1) goto  `save as`
 2) select `filetype:pdf`
 
-![save as pdf](imgs/ppt-save-as-pdf.png)
+![save as pdf](../imgs/ppt-save-as-pdf.png)
