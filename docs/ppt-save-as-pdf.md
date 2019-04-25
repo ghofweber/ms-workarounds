@@ -9,4 +9,4 @@ but you just can save it as pdf
 1) goto  `save as`
 2) select `filetype:pdf`
 
-![save as pdf](imgs/ppt-save-as-pdf.png)
+![save as pdf](../imgs/ppt-save-as-pdf.png)
