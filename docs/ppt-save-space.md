@@ -18,5 +18,4 @@ then you should pay attention when saving
 2) save as -> compress pictures
 as shown in screenshot below
 
-![save space](https://raw.githubusercontent.com/ghofweber/msoffice-workarounds/master/imgs/ppt-compress-pictures.png)
 ![save space](https://raw.githubusercontent.com/ghofweber/msoffice-workarounds/master/imgs/ppt-compress-pictures-2.png)
